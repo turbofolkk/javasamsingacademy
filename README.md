@@ -1,1 +1,1 @@
-# javasamsingacademy
+# javasamsungacademy
